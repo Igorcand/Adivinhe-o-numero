@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Igorcand/Adivinhe-o-numero/blob/master/LICENSE) 
 
 # About the Project
-DRUMKIT is a sounds project that you can listen the audio clicking on the screen and on the keyboard
+Decida Por Mim is a simple code where you have to find a number based on tips.
 # Technology used
 
 ## Back End
